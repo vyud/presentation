@@ -1,5 +1,7 @@
-# Attention, Memory, and Comprehension
+# Visual and Verbal Narrative and Comprehension
 ---
+
+Contextual prerequisites for understanding: Some investigations of comprehension and recall.
 
 <img src="https://github.com/idia640/vyud/blob/master/assets/img/comprehension_full%20context.png?raw=true" height="500">
 
