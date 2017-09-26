@@ -1,4 +1,3 @@
----
 # Attention, Memory, and Comprehension
 ---
 
@@ -34,5 +33,3 @@ Bransford, J.D., & Johnson, M.K. (1972). Contextual prerequisites for understand
 
 ## How are social interactions affected by our level of listening and reading comprehension?
 
-
----
