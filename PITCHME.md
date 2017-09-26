@@ -1,7 +1,7 @@
 # Attention, Memory, and Comprehension
 ---
 
-<img src="https://github.com/idia640/vyud/blob/master/assets/img/comprehension_full%20context.png?raw=true" height="400">
+<img src="https://github.com/idia640/vyud/blob/master/assets/img/comprehension_full%20context.png?raw=true" height="500">
 
 
 ---
