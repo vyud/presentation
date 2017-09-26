@@ -2,6 +2,9 @@
 # Attention, Memory, and Comprehension
 ---
 ![context](https://github.com/idia640/vyud/blob/master/assets/img/comprehension_full%20context.png?raw=true)
+
+
+
 ---
 #### Passage
 
@@ -9,6 +12,9 @@ If the balloons popped, the sound wouldn’t be able to carry since everything w
 
 ---
 ![table](https://github.com/idia640/vyud/blob/master/assets/img/comprehension_table1.png?raw=true)
+
+
+
 ---
 #### References
 
